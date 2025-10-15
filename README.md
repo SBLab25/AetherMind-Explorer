@@ -23,7 +23,11 @@ users can upload multiple PDFs or text files, which are embedded, indexed, and s
 * ☁️ Deployable to Vercel / Render / Railway
 
 ---
+Demo Video Link
 
+https://drive.google.com/file/d/10YQMbMxy8ODKiaA1VYaBKEXhmcdQtIFN/view?usp=sharing
+
+---
 ## 🏗️ Architecture
 
 ```
