@@ -7,6 +7,11 @@
 It allows users to upload documents, query their contents, and receive synthesized, context-aware answers using state-of-the-art large language models.
 
 ---
+Demo Video Link:
+
+https://drive.google.com/file/d/10YQMbMxy8ODKiaA1VYaBKEXhmcdQtIFN/view?usp=sharing
+
+---
 
 ## 🚀 Project Overview
 
@@ -23,11 +28,7 @@ users can upload multiple PDFs or text files, which are embedded, indexed, and s
 * ☁️ Deployable to Vercel / Render / Railway
 
 ---
-Demo Video Link
 
-https://drive.google.com/file/d/10YQMbMxy8ODKiaA1VYaBKEXhmcdQtIFN/view?usp=sharing
-
----
 ## 🏗️ Architecture
 
 ```
