@@ -1,4 +1,3 @@
-Here’s a rewritten **README.md** for your **AetherMind-Explorer** repository. You can paste this into your repo root to replace the Lovable default.
 
 ---
 
